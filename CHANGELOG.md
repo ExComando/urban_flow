@@ -16,6 +16,22 @@ Variable de seguridad desactivar_git_push dentro del notebook.
 
 ---
 
+## [Día 2] - 2026-04-17
+### Agregado
+Desarrollo del Ejercicio 2:
+- Creación de la estructura de carpeta si no existe
+- Descarga y guardado del dataset
+- Mostrar primeras 5 filas
+- Mostrar tipos de datos
+- Mostrar valores nulos
+
+
+### Autores
+- [ROSENDO]
+
+
+---
+
 
 ## [Día 3] - 2026-04-18
 ### Agregado
