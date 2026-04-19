@@ -12,3 +12,24 @@ Variable de seguridad desactivar_git_push dentro del notebook.
 
 ### Autores
 - [DARDO]
+
+
+---
+
+
+## [Día 3] - 2026-04-18
+### Agregado
+Desarrollo del Ejercicio 3:
+- Normalizar fechas
+- Normalizar horas
+- Normalizar ubicaciones
+- Limpiar y normalizar patentes
+- Limpieza de valores relevantes para multas
+- Detección y limpieza de outliers
+- Nuevo atributo `exceso_velocidad_real`
+- Nuevo atributo `exceso_velocidad`
+- Limpieza de no infractores
+- Grabado del dataset limpio en `urban_flow/data/interim/speeding_fines.csv`
+
+### Autores
+- [MARTIN]
