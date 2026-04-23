@@ -1,8 +1,12 @@
+# %load README.md
 # Urban Flow - Proyecto Integrador
-**Sprint:** 01 (Inicialización y configuración de la herramienta de versionado)
+** (Inicialización y configuración de la herramienta de versionado carga del dataset 
+y desarrollo de los distintos puntos.)
 
 ## Objetivo
-Creacion de la estructura de directorios y configurar entorno colaborativo en GIT HUB.
+El objetivo principal de este proyecto es aplicar los conocimientos adquiridos 
+en para el versionado de código, la organización, limpieza del código y la 
+utilización de pandas.
 
 ## Introducción y Contexto
 En el marco del crecimiento urbano acelerado, el análisis de datos de tráfico es vital para 
