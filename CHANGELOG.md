@@ -64,3 +64,15 @@ Desarrollo del Ejercicio 4:
 ### Autores
 - [DARDO]
 
+
+## [Día 6] - 2026-04-23
+### Agregado
+Desarrollo del Ejercicio 6:
+- Calcular y mostrar la proporción de infracciones registradas en la fecha 1932-01-01
+- Calcular y mostrar la proporción de infracciones registradas en la hora 00:00
+
+### Autores
+- [MARTIN]
+
+---
+
