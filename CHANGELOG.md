@@ -88,3 +88,14 @@ Desarrollo del Ejercicio 6:
 
 ---
 
+## [Día 7] - 2026-04-25
+### Agregado
+Desarrollo del Ejercicio 7:
+- Redacción de la conclusión
+
+### Autores
+- [ROSENDO]
+
+---
+
+
