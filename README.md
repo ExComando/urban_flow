@@ -1,6 +1,6 @@
 # Urban Flow - Proyecto Integrador
 ** (Inicialización y configuración de la herramienta de versionado carga del dataset 
-y desarrollo de los distintos puntos.)
+y desarrollo de los distintos puntos.)**
 
 ## Objetivo
 El objetivo principal de este proyecto es aplicar los conocimientos adquiridos 
