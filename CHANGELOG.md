@@ -76,3 +76,14 @@ Desarrollo del Ejercicio 6:
 
 ---
 
+
+## [Día 5] - 2026-04-24
+### Agregado
+Desarrollo del Ejercicio 5:
+- Creacion de grafico de barra, torta, linea
+
+### Autores
+- [SAUL]
+
+---
+
