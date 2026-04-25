@@ -1,4 +1,3 @@
-# %load CHANGELOG.md
 # Changelog - Grupo [Número]
 
 ## [Día 1] - 2026-04-16
@@ -13,7 +12,6 @@ Variable de seguridad desactivar_git_push dentro del notebook.
 
 ### Autores
 - [DARDO]
-
 
 ---
 
@@ -51,6 +49,9 @@ Desarrollo del Ejercicio 3:
 ### Autores
 - [MARTIN]
 
+---
+
+
 ## [Día 4] - 2026-04-23
 ### Agregado
 Desarrollo del Ejercicio 4:
@@ -63,18 +64,6 @@ Desarrollo del Ejercicio 4:
 
 ### Autores
 - [DARDO]
-
-
-## [Día 6] - 2026-04-23
-### Agregado
-Desarrollo del Ejercicio 6:
-- Calcular y mostrar la proporción de infracciones registradas en la fecha 1932-01-01
-- Calcular y mostrar la proporción de infracciones registradas en la hora 00:00
-
-### Autores
-- [MARTIN]
-
----
 
 
 ## [Día 5] - 2026-04-24
