@@ -121,3 +121,13 @@ Desarrollo del Ejercicio 7:
 
 ### Autores
 - [Dardo]
+
+## [Sprint 2 - Día 3] - 2026-05-19
+### Agregado
+
+- Conversión a escala de grises de las imágenes originales y almacenarlas.
+- Realizar un suavizado de las imágenes en escala de grises y almacenarlas.
+- Realizar una detección de bordes sobre las imágenes suavizadas para intentar detectar las patentes y almacenarlas.
+
+### Autores
+- [Rosendo]
