@@ -131,3 +131,13 @@ Desarrollo del Ejercicio 7:
 
 ### Autores
 - [Rosendo]
+
+## [Sprint 2 - Día 4] - 2026-05-21
+### Agregado
+
+- Extracción de patentes de imágenes con OCR.
+- Matching de patentes reales del CSV con las extraídas de las imágenes.
+- Modificación y grabado del CSV con nuevas columnas para las imágenes de patentes relacionadas.
+
+### Autores
+- [Martin]
