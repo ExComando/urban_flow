@@ -141,3 +141,15 @@ Desarrollo del Ejercicio 7:
 
 ### Autores
 - [Martin]
+
+## [Sprint 2 - Día 5] - 2026-05-22
+### Agregado
+
+- Cálculo de multas a partir de la columna `exceso_velocidad`.
+- Integración de imágenes asociadas a cada multa según `exceso_velocidad`.
+- Identificación de imágenes sin correspondencia en el dataset principal.
+- Análisis de multas pendientes de pago.
+- Relación entre multas impagas y la existencia de imágenes asociadas.
+
+### Autores
+- [Saul]
