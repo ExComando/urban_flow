@@ -99,3 +99,14 @@ Desarrollo del Ejercicio 7:
 ---
 
 
+# Changelog - Grupo 52
+
+## [Sprint 2 - Día 1] - 2026-05-18
+### Agregado
+
+- Inicialización y configuración de Git.
+- Clonado de repositorio.
+- Descarga, extracción y ordenamiento del dataset de imágenes.
+
+### Autores
+- [Dardo]
