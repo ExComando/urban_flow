@@ -153,3 +153,11 @@ Desarrollo del Ejercicio 7:
 
 ### Autores
 - [Saul]
+
+## [Sprint 2 - Día 6] - 2026-05-24
+### Agregado
+
+- Finalizacion y resumen del proyecto.
+
+### Autores
+- [Dardo]
