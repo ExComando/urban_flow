@@ -110,3 +110,14 @@ Desarrollo del Ejercicio 7:
 
 ### Autores
 - [Dardo]
+
+## [Sprint 2 - Día 2] - 2026-05-18
+### Agregado
+
+- Verificación de datos de imágenes y cálculo de tamaños en KB.
+- Clasificación de imágenes en 'plates' y 'completes' según su ancho.
+- Exportación del diccionario estructurado a group_images.json.
+- Implementación de la función de visualización aleatoria de imágenes.
+
+### Autores
+- [Dardo]
