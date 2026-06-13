@@ -80,3 +80,12 @@
 
 ### Autores
 - [Dardo]
+
+## [Sprint 3 - Día 2] - 2026-06-13
+### Agregado
+
+- Creación de la función procesar_fila_csv.
+- Uso de la multa para procesar una fila del archivo CSV.
+
+### Autores
+- [Rosendo]
