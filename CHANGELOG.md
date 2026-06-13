@@ -97,3 +97,11 @@
 
 ### Autores
 - [Rosendo]
+
+## [Sprint 3 - Día 4] - 2026-06-13
+### Agregado
+
+- Poblar base de datos Transito.
+
+### Autores
+- [Rosendo]
