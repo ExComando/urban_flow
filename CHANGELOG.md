@@ -67,3 +67,16 @@
 
 ### Autores
 - [Dardo]
+# Changelog - Grupo 52
+
+## [Sprint 3 - Día 1] - 2026-06-13
+### Agregado
+
+- Inicialización y configuración de Git.
+- Clonado de repositorio.
+- Migración de imágenes binarias a DVC.
+- Diseño del Modelo Lógico y configuración de ORM SQLAlchemy.
+- Poblado de base de datos relacional y vectorización en ChromaDB.
+
+### Autores
+- [Dardo]
