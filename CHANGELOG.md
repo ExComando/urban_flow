@@ -89,3 +89,11 @@
 
 ### Autores
 - [Rosendo]
+
+## [Sprint 3 - Día 3] - 2026-06-13
+### Agregado
+
+- Creación de Modelo Relacional.
+
+### Autores
+- [Rosendo]
