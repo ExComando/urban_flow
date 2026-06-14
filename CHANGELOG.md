@@ -113,3 +113,11 @@
 
 ### Autores
 - [Martin]
+
+## [Sprint 3 - Día 6] - 2026-06-14
+### Agregado
+
+- Ejercicio 8: Creación y carga de base de datos vectorial.
+
+### Autores
+- [Martin]
