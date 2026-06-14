@@ -105,3 +105,11 @@
 
 ### Autores
 - [Rosendo]
+
+## [Sprint 3 - Día 5] - 2026-06-14
+### Agregado
+
+- Ejercicio 7: Ejecutar consultas para visualizar métricas de patentes.
+
+### Autores
+- [Martin]
