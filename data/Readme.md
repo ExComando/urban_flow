@@ -33,3 +33,26 @@ En este Sprint se profesionaliza la solución incorporando:
 * Preparación para búsquedas avanzadas.
 
 Para ello es necesario migrar la información procesada a una base de datos estructurada.
+### Sprint 3
+
+**Objetivo:**
+Profesionalizar y escalar la solución de gestión de infracciones urbanas mediante la implementación
+de persistencia en bases de datos relacionales, el uso de bases de datos vectoriales para búsquedas
+por similitud y la integración de herramientas de control de versiones para archivos binarios
+masivos.
+
+**Introducción y Contexto:**
+A medida que el sistema creció en volumen de datos y complejidad, el almacenamiento basado puramente
+en archivos planos (CSV) dejó de ser viable, presentando riesgos de integridad, redundancia y
+lentitud en las consultas. En este sprint, el proyecto dio un salto arquitectónico necesario:
+migramos la información a una base de datos estructurada utilizando un ORM (SQLAlchemy) para
+modelar lógicamente las entidades subyacentes (Vehículos, Radares, Multas y Evidencias).
+Simultáneamente, se integró Data Version Control (DVC) para gestionar el almacenamiento de
+imágenes pesadas sin saturar el sistema de control de versiones Git.
+
+**Conclusión del Trabajo Desarrollado:**
+
+La transición hacia un ecosistema dual de bases de datos ha sido un éxito rotundo.
+por un lado, la base relacional gestionada por el ORM nos permitió garantizar la integridad
+referencial y limpiar inconsistencias históricas, estructurando el esquema para reportes rápidos
+y precisos. Por otro lado, la integración de redes neuronales (OpenClip) junto con la base de datos vectorial ChromaDB transformó nuestra capacidad analítica: el sistema extrae las características matemáticas (*embeddings*) de las fotografías, habilitando un motor de búsqueda que vincula instantáneamente la evidencia visual cruda con el historial del infractor. La arquitectura resultante es sólida, modular y escalable.

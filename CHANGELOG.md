@@ -131,3 +131,11 @@
 
 ### Autores
 - [Saul]
+
+## [Sprint 3 - Día 8] - 2026-06-14
+### Agregado
+
+- Redactaccion de conclusión del trabajo desarrollado.
+
+### Autores
+- [Saul]
