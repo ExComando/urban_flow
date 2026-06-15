@@ -121,3 +121,13 @@
 
 ### Autores
 - [Martin]
+
+## [Sprint 3 - Día 7] - 2026-06-14
+### Agregado
+
+- Implementación de función buscar_patente_imagen.
+- Búsqueda vectorial por similitud en ChromaDB para identificar patente.
+- Cruce con base de datos relacional para retornar historial del vehículo.
+
+### Autores
+- [Saul]
